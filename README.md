@@ -47,6 +47,7 @@ else:
 
 
 # Berikut adalah flowchartnya
+# ![378381635-ff1cf187-a75f-49a4-8a13-700322f9b92a](https://github.com/user-attachments/assets/b4095fdc-b37c-436b-9f4b-24eaa80ce08e)
 
 
 
@@ -124,6 +125,7 @@ else:
 
 
 # Berikut adalah flowchartnya
+# ![378381635-ff1cf187-a75f-49a4-8a13-700322f9b92a](https://github.com/user-attachments/assets/4d93c71d-1428-42cc-a55b-1773f85c2b25)
 
 
 
