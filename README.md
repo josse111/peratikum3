@@ -42,7 +42,7 @@ else:
     print("Tidak ada bilangan yang dimasukkan.")
 
 # Hasil screenshot di visualstudiocode
-# ![Screenshot 2024-10-21 071857](https://github.com/user-attachments/assets/f203269b-44d9-433d-aa6c-9bcfd7c3cc4d)
+# ![Screenshot 2024-10-21 071857](https://github.com/user-attachments/assets/45932cce-627f-4979-a04c-6ddf8b63bf2f)
 
 
 
