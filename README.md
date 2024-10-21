@@ -119,6 +119,7 @@ else:
 
 
 # Hasil screenshot di visualstudiocode
+# ![Screenshot 2024-10-21 064821](https://github.com/user-attachments/assets/aa44184b-5830-411f-8abd-21a70f05f08b)
 
 
 
