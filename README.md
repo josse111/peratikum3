@@ -1,6 +1,6 @@
-### Nama   =  ZAKI FAUZAN AKHBARI
+### Nama   =  MUHAMMAD GALIH FERI ABDILLAH
 ### Kelas  = TI.24.A4  
-### NIM    =  312410348
+### NIM    =  312410299
 ### Matkul = BAHASA PEMOGRAMAN
 
 # Menentukan Bilangan Terbesar dari Serangkaian Input
@@ -42,7 +42,7 @@ else:
     print("Tidak ada bilangan yang dimasukkan.")
 
 # Hasil screenshot di visualstudiocode
-# ![Screenshot 2024-10-21 071857](https://github.com/user-attachments/assets/45932cce-627f-4979-a04c-6ddf8b63bf2f)
+# ![Screenshot 2024-10-21 174408](https://github.com/user-attachments/assets/817b8fee-315e-4108-8418-71f7d10aa258)
 
 
 
@@ -120,7 +120,7 @@ else:
 
 
 # Hasil screenshot di visualstudiocode
-# ![Screenshot 2024-10-21 064821](https://github.com/user-attachments/assets/aa44184b-5830-411f-8abd-21a70f05f08b)
+# ![Screenshot 2024-10-21 174453](https://github.com/user-attachments/assets/8d8fd748-1015-45d8-85ee-633c928940c5)
 
 
 
