@@ -1,6 +1,6 @@
-### Nama   =  MUHAMMAD GALIH FERI ABDILLAH
+### Nama   =  ZAKI FAUZAN AKHBARI
 ### Kelas  = TI.24.A4  
-### NIM    =  312410299
+### NIM    =  312410348
 ### Matkul = BAHASA PEMOGRAMAN
 
 # Menentukan Bilangan Terbesar dari Serangkaian Input
